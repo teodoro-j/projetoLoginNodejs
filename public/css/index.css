@@ -1,0 +1,19 @@
+.container {
+    border: 3px solid rgb(18, 18, 128);
+}
+
+a {
+    color: #f1f1f1;
+    margin-top: 1px;
+    font-size: small;
+    text-decoration: none;
+}
+
+input {
+    border-color: rgb(18, 18, 128);
+}
+
+button:hover {
+    background-color: rgb(18, 18, 128);
+    color: #f1f1ff;
+}
